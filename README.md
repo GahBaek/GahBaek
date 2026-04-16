@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GahBaek/GahBaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gahyun Baek
 
-Here are some ideas to get you started:
+**Backend Engineer & Security AI Researcher**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub](https://img.shields.io/badge/GitHub-GahBaek-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GahBaek)
+
+</div>
+
+---
+
+## About Me
+
+```yaml
+name       : Gahyun Baek (백가현)
+education:
+  undergraduate : Computer Science & Engineering @ MJU
+  graduate      : Software Engineering @ SKKU (M.S.)
+lab        : SecAI Lab @ SKKU
+research   : AI for Security
+```
+
+---
+
+## Research
+
+> **SecAI Lab** @ Sungkyunkwan University
+---
+
+## Tech Stack
+
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Database & API**
+
+![RDB](https://img.shields.io/badge/RDB-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**AI / ML**
+
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Systems**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
